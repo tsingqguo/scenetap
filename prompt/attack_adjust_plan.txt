@@ -1,0 +1,11 @@
+Review the plan by looking closely at the image and its segmentation map.
+
+- **Text Placement on Key Areas**: Place the text on the target object if it doesn’t change the important attribute mentioned in the question. If it would, move the text nearby so it still influences the model’s understanding without affecting that attribute.
+
+- **Choosing Writable Regions**: Pick realistic and readable areas for the text, like banners, cabinets, walls, t-shirts, signs, tiles, chairs, or posters. Avoid placing text on surfaces where it wouldn’t usually be found, like grass, water, faces, or bodies.
+
+- **Effective Positioning**: Make sure the text is close enough to the target region to affect the model’s answer. If it’s too far to be effective, move it to a nearby writable area that has more influence.
+
+Ensure the placement is influential, practical, and realistic in a real-world setting.
+
+If the plan already follows these guidelines, no changes are needed; otherwise, adjust as necessary. Let’s go step-by-step.
