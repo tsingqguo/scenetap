@@ -4,7 +4,7 @@ This repository contains the official implementation of **SceneTAP**, a novel ap
 
 This work has been accepted to **CVPR 2025**.
 
-![fig1](figs\fig1.png)
+![fig1](figs/fig1.png)
 
 ## Environment Setup
 
