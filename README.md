@@ -57,7 +57,7 @@ For additional details, refer to `scripts/chatgpt_test.sh`.
 
 The question file follows a JSON format and contains multiple entries:
 
-```tex
+```
 [
   {
     "question_id": <question_id>,
